@@ -1,4 +1,4 @@
-package tiendaTech.tienda;
+package com.tiendaTech.tienda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
